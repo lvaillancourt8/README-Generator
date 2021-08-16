@@ -1,6 +1,6 @@
-# PROJECT NAME
+# Project Name
 
-  https://img.shields.io/badge/Boost%20Software%20License-License-green
+[<img src="https://img.shields.io/badge/MIT-License-green.svg">]('[MIT License]('https://opensource.org/licenses/MIT')')
 
 ## Github
 [lvaillancourt8](https://github.com/lvaillancourt8/)
@@ -26,10 +26,10 @@ These are the usage instructions for my project
 
 
 ## License <a name="license"></a>
-
+Licensed under [MIT License]("[MIT License]('https://opensource.org/licenses/MIT')")
 
 ## Contributing <a name="contributing"></a>
-These are the guidelines for contributing to this project
+These are the contribution guidelines for my project
 
 ## Tests <a name="tests"></a>
 These are the test instructions for my project
