@@ -1,12 +1,12 @@
-# PROJECT NAME
+# Project Name
 
-  https://img.shields.io/badge/Boost%20Software%20License-License-green
+<img src="https://img.shields.io/badge/Apache%20License%202.0-License-green.svg">
 
 ## Github
 [lvaillancourt8](https://github.com/lvaillancourt8/)
 
 ## Description
-This is a description of my project
+This is the description of my project
 
 ## Table of Contents
 
@@ -26,13 +26,13 @@ These are the usage instructions for my project
 
 
 ## License <a name="license"></a>
-
+Licensed under [GNU General Public License v3.0]([GNU General Public License v3.0]('https://www.gnu.org/licenses/gpl-3.0.en.html'))
 
 ## Contributing <a name="contributing"></a>
 These are the guidelines for contributing to this project
 
 ## Tests <a name="tests"></a>
-These are the test instructions for my project
+These are the test instructions for the project
 
 ## Questions <a name="questions"></a>
 Please reach out to myemail@email.com with further questions about this application.
