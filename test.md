@@ -1,12 +1,12 @@
 # Project Name
 
-[<img src="https://img.shields.io/badge/MIT-License-green.svg">]('[MIT License]('https://opensource.org/licenses/MIT')')
+https://img.shields.io/badge/GNU%20General%20Public%20License%20v3.0-License-green.svg
 
 ## Github
 [lvaillancourt8](https://github.com/lvaillancourt8/)
 
 ## Description
-This is a description of my project
+This is the description of my project
 
 ## Table of Contents
 
@@ -26,13 +26,13 @@ These are the usage instructions for my project
 
 
 ## License <a name="license"></a>
-Licensed under [MIT License]("[MIT License]('https://opensource.org/licenses/MIT')")
+Licensed under [GNU General Public License v3.0]([GNU General Public License v3.0]('https://www.gnu.org/licenses/gpl-3.0.en.html'))
 
 ## Contributing <a name="contributing"></a>
-These are the contribution guidelines for my project
+These are the guidelines for contributing to this project
 
 ## Tests <a name="tests"></a>
-These are the test instructions for my project
+These are the test instructions for the project
 
 ## Questions <a name="questions"></a>
 Please reach out to myemail@email.com with further questions about this application.
