@@ -26,16 +26,16 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch(license) {
     case 'Apache License 2.0':
-      return "[Apache License 2.0]('https://www.apache.org/licenses/LICENSE-2.0')";
+      return "[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)";
       break;
     case 'GNU General Public License v3.0':
-      return "[GNU General Public License v3.0]('https://www.gnu.org/licenses/gpl-3.0.en.html')";
+      return "[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)";
       break;
     case 'MIT License':
-      return "[MIT License]('https://opensource.org/licenses/MIT')";
+      return "[MIT License](https://opensource.org/licenses/MIT)";
       break;
     case 'Boost Software License':
-      return "[Boost Software License]('https://www.boost.org/LICENSE_1_0.txt')";
+      return "[Boost Software License](https://www.boost.org/LICENSE_1_0.txt)";
       break;
     default:
       return "";
