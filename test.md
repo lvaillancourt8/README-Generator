@@ -26,7 +26,7 @@ These are the usage instructions for my project
 
 
 ## License <a name="license"></a>
-Licensed under [GNU General Public License v3.0]([GNU General Public License v3.0]('https://www.gnu.org/licenses/gpl-3.0.en.html'))
+Licensed under [GNU General Public License v3.0]('https://www.gnu.org/licenses/gpl-3.0.en.html') License
 
 ## Contributing <a name="contributing"></a>
 These are the contribution guidelines for my project

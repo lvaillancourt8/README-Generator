@@ -78,7 +78,7 @@ ${data.projUsage}
 
 
 ## License <a name="license"></a>
-Licensed under [${data.license}](${renderLicenseLink(data.license)})
+Licensed under ${renderLicenseLink(data.license)} License
 
 ## Contributing <a name="contributing"></a>
 ${data.projContribute}
