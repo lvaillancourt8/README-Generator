@@ -1,6 +1,6 @@
 # Project Name
 
-https://img.shields.io/badge/GNU%20General%20Public%20License%20v3.0-License-green.svg
+<img src="https://img.shields.io/badge/Apache%20License%202.0-License-green.svg">
 
 ## Github
 [lvaillancourt8](https://github.com/lvaillancourt8/)
