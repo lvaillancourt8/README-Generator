@@ -3,6 +3,11 @@ const fs = require('fs');
 // const Choices = require('inquirer/lib/objects/choices');
 const generateMarkdown = require("./utils/generateMarkdown");
 
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) =>
+      err ? console.log(err) : console.log('Success!'))
+  }
+
 function init() {
     inquirer    
         .prompt([
@@ -56,7 +61,7 @@ function init() {
     .then((data) => {
         console.log(data);
         console.log(generateMarkdown(data));
-        writeToFile("README.md", generateMarkdown(data));
+        writeToFile("./README.md", generateMarkdown(data));
     })
     .catch((error) => {
         if (error.isTtyError) {
