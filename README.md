@@ -3,6 +3,7 @@ Coding Bootcamp Homework Week #10 - use HTML, JavaScript and node to program a p
 
 ## Project Links
 Link to the GitHub Repository: [GitHub Repo](https://github.com/lvaillancourt8/README-Generator)
+
 Link to the demo video: [Screencastify Demo Video](https://drive.google.com/file/d/1lv4L9dS76xM-6RHfwdIbe-JEdA99GrTU/view)
 
 ## User Story
