@@ -59,9 +59,7 @@ function init() {
         }
     ])
     .then((data) => {
-        console.log(data);
-        console.log(generateMarkdown(data));
-        writeToFile("./README.md", generateMarkdown(data));
+        writeToFile("./output/README.md", generateMarkdown(data));
     })
     .catch((error) => {
         if (error.isTtyError) {

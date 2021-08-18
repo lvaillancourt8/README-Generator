@@ -1,12 +1,12 @@
-# Project Name
+# This is my project name.
 
-<img src="https://img.shields.io/badge/GNU%20General%20Public%20License%20v3.0-License-green.svg"> 
+<img src="https://img.shields.io/badge/Boost%20Software%20License-License-green.svg"> 
 
 ## Github
 [lvaillancourt8](https://github.com/lvaillancourt8/)
 
 ## Description
-This is a description of my project
+This is the description of my project.
 
 ## Table of Contents
 
@@ -18,21 +18,21 @@ This is a description of my project
 6. [Questions](#tests)
 
 ## Installation <a name="installation"></a>
-These are the installation instructions for my project
+There are the installation instructions.
 
 
 ## Usage <a name="usage"></a>
-These are the usage instructions for my project
+These are the usage instructions.
 
 
 ## License <a name="license"></a>
-Licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) License
+Licensed under [Boost Software License](https://www.boost.org/LICENSE_1_0.txt) License
 
 ## Contributing <a name="contributing"></a>
-These are the contribution guidelines for my project
+These are the guidelines for contributing to the project.
 
 ## Tests <a name="tests"></a>
-These are the test instructions for my project
+These are the test instructions for the project.
 
 ## Questions <a name="questions"></a>
 Please reach out to myemail@email.com with further questions about this application.
