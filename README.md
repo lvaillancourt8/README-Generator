@@ -1,10 +1,10 @@
 # README Generator
-Coding Bootcamp Homework Week #10 - use HTML, JavaScript and node to program a professional README generator application 
+Coding Bootcamp Homework Week #9 - use HTML, JavaScript and Node to program a professional README generator application 
 
 ## Project Links
 Link to the GitHub Repository: [GitHub Repo](https://github.com/lvaillancourt8/README-Generator)
 
-Link to the demo video: [Screencastify Demo Video](https://drive.google.com/file/d/1lv4L9dS76xM-6RHfwdIbe-JEdA99GrTU/view)
+Link to the demo video: [Screencastify Demo Video](https://drive.google.com/file/d/1X95VVprU9-XvUEcKOqFGNBdB30RQo2-K/view?usp=sharing)
 
 ## User Story
 
